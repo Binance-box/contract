@@ -6,6 +6,9 @@ https://wolfible.com. Feel free to read the code. More details coming soon.
 WolfSafePoorPeople Deployer : 
 - https://bscscan.com/address0xc55A7183F6D060271010A4441c106f6a81D46E34
 - https://polygonscan.com/address/0xc55A7183F6D060271010A4441c106f6a81D46E34
+- https://ftmscan.com/token/0x685a211c9d96d0c8c9d22b7ae309538d4c69c15c
+- https://bc.kardiachain.io/token/0xccB32737C6dFfddFFB24CA8A96b588ac7b1822e7
+- https://avascan.info/blockchain/c/address/0xe668f8030bf17f3931A3069f31f4Fa56EFE9DD54
 
 ### BSCMAINNET
 
